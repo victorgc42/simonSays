@@ -1,6 +1,6 @@
 # simonSays
 
-1. PURPOSE
+PURPOSE
 
 Simon Says is an electronic game created by Ralph Baer and Howard J. Morrison in
 the year 1978 based on the well-known children's game that bears the same name. He had
@@ -12,6 +12,10 @@ the player has to repeat the pattern by pressing the buttons without fail, if th
 the game ends and starts over from the beginning. The goal is to achieve
 longest possible sequence.
 
-2. ELECTRIC SCHEME
+ELECTRIC SCHEME
+
+VIDEO
+
+https://www.youtube.com/watch?v=izJU_Gr845g&
 
 
