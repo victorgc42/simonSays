@@ -16,11 +16,11 @@ Simon Says is an electronic game created by Ralph Baer and Howard J. Morrison in
 
 ## COMPONENTS
 
-* 4x LED 
-* 1x Resistor 200 Ω
-* 4x Button 
-* 4x 1k Ω Resistor
-* 1x KY-006 Passive Buzzer
+* 4x LED.
+* 1x Resistor 200 Ω.
+* 4x Button.
+* 4x 1k Ω Resistor.
+* 1x KY-006 Passive Buzzer.
 
 ## VIDEO
 
