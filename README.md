@@ -14,6 +14,8 @@ longest possible sequence.
 
 ELECTRIC SCHEME
 
+![alt text](https://ibb.co/7jmG5c1)
+
 VIDEO
 
 https://www.youtube.com/watch?v=izJU_Gr845g&
