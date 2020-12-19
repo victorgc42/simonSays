@@ -14,7 +14,7 @@ longest possible sequence.
 
 ELECTRIC SCHEME
 
-![alt text](https://ibb.co/7jmG5c1)
+<a href="https://ibb.co/7jmG5c1"><img src="https://i.ibb.co/YPstM9L/image-004.jpg" alt="image-004" border="0"></a>
 
 VIDEO
 
