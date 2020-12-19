@@ -1,4 +1,4 @@
-# simonSays
+# Simon Says using launchpad MSP430
 
 ## Table of contents
 * [Introduction](#introduction)
