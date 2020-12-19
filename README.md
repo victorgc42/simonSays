@@ -1,6 +1,12 @@
 # simonSays
 
-PURPOSE
+## Table of contents
+* [Introduction](#introduction)
+* [Electric scheme](#electric-scheme)
+* [Components](#components)
+* [Video](#video)
+
+## INTRODUCTION
 
 Simon Says is an electronic game created by Ralph Baer and Howard J. Morrison in
 the year 1978 based on the well-known children's game that bears the same name. He had
@@ -12,11 +18,19 @@ the player has to repeat the pattern by pressing the buttons without fail, if th
 the game ends and starts over from the beginning. The goal is to achieve
 longest possible sequence.
 
-ELECTRIC SCHEME
+## ELECTRIC SCHEME
 
 <a href="https://ibb.co/7jmG5c1"><img src="https://i.ibb.co/YPstM9L/image-004.jpg" alt="image-004" border="0"></a>
 
-VIDEO
+## COMPONENTS
+
+* 4x LED 
+* 1x Resistor 200 Ω
+* 4x Button 
+* 4x 1k Ω Resistor
+* 1x KY-006 Passive Buzzer
+
+## VIDEO
 
 https://www.youtube.com/watch?v=izJU_Gr845g&
 
